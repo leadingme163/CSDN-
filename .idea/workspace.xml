@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="149feb6d-3e1d-4f24-a82a-08e1a69e1c54" name="Default Changelist" comment="" />
+    <list default="true" id="149feb6d-3e1d-4f24-a82a-08e1a69e1c54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/code.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585799421991</updated>
       <workItem from="1585799423378" duration="851000" />
+      <workItem from="1585805661611" duration="85000" />
+      <workItem from="1585816343290" duration="418000" />
     </task>
     <servers />
   </component>
@@ -80,24 +85,32 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1867" height="272" key="GridCell.Tab.0.bottom" timestamp="1585800274221">
+    <state x="690" y="223" key="FileChooserDialogImpl" timestamp="1585805745613">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585800274221" />
-    <state width="1867" height="272" key="GridCell.Tab.0.center" timestamp="1585800274221">
+    <state x="690" y="223" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585805745613" />
+    <state width="1867" height="272" key="GridCell.Tab.0.bottom" timestamp="1585816485063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="272" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585800274221" />
-    <state width="1867" height="272" key="GridCell.Tab.0.left" timestamp="1585800274220">
+    <state width="1867" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585816485063" />
+    <state width="1867" height="272" key="GridCell.Tab.0.center" timestamp="1585816485063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="272" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585800274220" />
-    <state width="1867" height="272" key="GridCell.Tab.0.right" timestamp="1585800274221">
+    <state width="1867" height="272" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585816485063" />
+    <state width="1867" height="272" key="GridCell.Tab.0.left" timestamp="1585816485063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="272" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585800274221" />
+    <state width="1867" height="272" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585816485063" />
+    <state width="1867" height="272" key="GridCell.Tab.0.right" timestamp="1585816485063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="272" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585816485063" />
+    <state x="577" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1585805662025">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="577" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585805662025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CSDN$code.coverage" NAME="code Coverage Results" MODIFIED="1585799905529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSDN$code.coverage" NAME="code Coverage Results" MODIFIED="1585816485057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -47,7 +47,7 @@ def article_list(base_url, end_page):
 def article_detail(article_url):
     count = 0
     headers = request_header()
-    while count < 5000:
+    while count < 2000:
         url = random.choice(article_url)
         res = requests.get(url=url, headers=headers)
         if res.status_code == 200:
@@ -70,8 +70,10 @@ def run():
             print('Crawl is not Successful')
 
 def main():
-    schedule.every().day.at("23:59:59").do(run)
-    schedule.every().day.at("11:59:59").do(run)
+    schedule.every().day.at("00:00:00").do(run)
+    schedule.every().day.at("06:00:00").do(run)
+    schedule.every().day.at("12:00:00").do(run)
+    schedule.every().day.at("18:00:00").do(run)
     while True:
         schedule.run_pending()
 
